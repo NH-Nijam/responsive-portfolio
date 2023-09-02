@@ -1,0 +1,88 @@
+body{
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.first-div{
+    width: 800px;
+    height: 400px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.second-div{
+    width: 750px;
+    height: 350px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.third-div{
+  
+    width: 700px;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.fourth-div{
+    background-color: #FF7676;
+    width: 400px; 
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fifth-div{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.six-div{
+    width: 100%;
+    height: 120px;
+    background-color: #C2FF76;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.seven-div{
+    width: 100%;
+    height: 160px;
+    display: flex;
+    gap: 20px;
+
+}
+.eight-div{
+    width: 100%;
+    height: 160px;
+    background-color: #FF9BF7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.nine-div{
+    width: 100%;
+    height: 160px;
+    display: flex; 
+    flex-direction: column;
+    gap: 20px;
+}
+.ten-div{
+    width: 100%;
+    height: 70px;
+    background-color: #9BA4FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
